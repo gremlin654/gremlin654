@@ -39,6 +39,9 @@
 ---
 
 ### :fire: My Stats :
+
+<img src="https://www.codewars.com/users/gremlin654/badges/large" title="CodeWars" alt="CodeWars"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gremlin654&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gremlin654&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
